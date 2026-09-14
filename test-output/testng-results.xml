@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-14T18:55:06 IST" name="Default suite" finished-at="2026-09-14T18:55:16 IST" duration-ms="10259">
+    <groups>
+    </groups>
+    <test started-at="2026-09-14T18:55:06 IST" name="Default test" finished-at="2026-09-14T18:55:16 IST" duration-ms="10259">
+      <class name="testt.shopeasetest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testt.shopeasetest@4116aac9]" started-at="2026-09-14T18:55:06 IST" name="setUp" finished-at="2026-09-14T18:55:09 IST" duration-ms="3122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ValidcredentialsSignin()[pri:1, instance:testt.shopeasetest@4116aac9]" started-at="2026-09-14T18:55:09 IST" name="ValidcredentialsSignin" finished-at="2026-09-14T18:55:14 IST" duration-ms="5471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidcredentialsSignin -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testt.shopeasetest@4116aac9]" started-at="2026-09-14T18:55:14 IST" name="browserClose" finished-at="2026-09-14T18:55:14 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidcredentialsSignin status=SUCCESS method=shopeasetest.ValidcredentialsSignin()[pri:1, instance:testt.shopeasetest@4116aac9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="viewdetails()[pri:2, instance:testt.shopeasetest@4116aac9]" started-at="2026-09-14T18:55:14 IST" name="viewdetails" finished-at="2026-09-14T18:55:15 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewdetails -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testt.shopeasetest@4116aac9]" started-at="2026-09-14T18:55:15 IST" name="browserClose" finished-at="2026-09-14T18:55:15 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=viewdetails status=SUCCESS method=shopeasetest.viewdetails()[pri:2, instance:testt.shopeasetest@4116aac9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="clickaddtocart()[pri:3, instance:testt.shopeasetest@4116aac9]" started-at="2026-09-14T18:55:15 IST" name="clickaddtocart" finished-at="2026-09-14T18:55:15 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickaddtocart -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testt.shopeasetest@4116aac9]" started-at="2026-09-14T18:55:15 IST" name="browserClose" finished-at="2026-09-14T18:55:15 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickaddtocart status=SUCCESS method=shopeasetest.clickaddtocart()[pri:3, instance:testt.shopeasetest@4116aac9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="couponcode()[pri:4, instance:testt.shopeasetest@4116aac9]" started-at="2026-09-14T18:55:15 IST" name="couponcode" finished-at="2026-09-14T18:55:15 IST" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- couponcode -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testt.shopeasetest@4116aac9]" started-at="2026-09-14T18:55:15 IST" name="browserClose" finished-at="2026-09-14T18:55:15 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=couponcode status=SUCCESS method=shopeasetest.couponcode()[pri:4, instance:testt.shopeasetest@4116aac9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="checkout()[pri:5, instance:testt.shopeasetest@4116aac9]" started-at="2026-09-14T18:55:15 IST" name="checkout" finished-at="2026-09-14T18:55:15 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testt.shopeasetest@4116aac9]" started-at="2026-09-14T18:55:15 IST" name="browserClose" finished-at="2026-09-14T18:55:15 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkout status=SUCCESS method=shopeasetest.checkout()[pri:5, instance:testt.shopeasetest@4116aac9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="filldetails()[pri:6, instance:testt.shopeasetest@4116aac9]" started-at="2026-09-14T18:55:15 IST" name="filldetails" finished-at="2026-09-14T18:55:15 IST" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filldetails -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testt.shopeasetest@4116aac9]" started-at="2026-09-14T18:55:15 IST" name="browserClose" finished-at="2026-09-14T18:55:15 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=filldetails status=SUCCESS method=shopeasetest.filldetails()[pri:6, instance:testt.shopeasetest@4116aac9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method signature="clickplaceorder()[pri:7, instance:testt.shopeasetest@4116aac9]" started-at="2026-09-14T18:55:15 IST" name="clickplaceorder" finished-at="2026-09-14T18:55:16 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickplaceorder -->
+        <test-method is-config="true" signature="browserClose(org.testng.ITestResult)[pri:0, instance:testt.shopeasetest@4116aac9]" started-at="2026-09-14T18:55:16 IST" name="browserClose" finished-at="2026-09-14T18:55:16 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickplaceorder status=SUCCESS method=shopeasetest.clickplaceorder()[pri:7, instance:testt.shopeasetest@4116aac9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testt.shopeasetest@4116aac9]" started-at="2026-09-14T18:55:16 IST" name="teardown" finished-at="2026-09-14T18:55:16 IST" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testt.shopeasetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
